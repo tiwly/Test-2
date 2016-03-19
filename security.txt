@@ -1,0 +1,1 @@
+ เพิ่ม permissions โดยเลือกเป็น everyone และเลือก List และ Upload/Delete เพื่อให้สามารถแสดงรูปภาพและสามารถ upload ไฟล์ได้
